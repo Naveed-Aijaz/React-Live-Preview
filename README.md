@@ -30,10 +30,10 @@ This project is optimized for:
  ## 🚀 Installation
 
 Clone the repository:
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Naveed-Aijaz/my-react-app
 
 Go into project folder:
-cd your-project-name
+cd my-react-app
 
 Install dependencies:
 npm install
