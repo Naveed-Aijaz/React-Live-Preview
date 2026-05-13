@@ -1,0 +1,8 @@
+G:\my N\react
+ ├── .sixth
+ └── My-react-app   👈 (ye likely React project hai)
+
+ cd My-react-app
+
+ npm start
+ npm run dev
